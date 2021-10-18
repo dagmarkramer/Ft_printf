@@ -8,6 +8,9 @@ it manages any combination of the following flags: ’-0.’
 and minimum field width with all conversions
 
 
+main.c is not part of project
+
+
 UTILISATION
 ------------
 
