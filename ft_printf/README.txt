@@ -1,12 +1,9 @@
 INTRODUCTION
 ------------
 
-this is a library that contains ft_printf, a function
-that will mimic the real printf
+this is a library that contains ft_printf, a function that will mimic the real printf
 
-it manages any combination of the following flags: ’-0.’ 
-and minimum field width with all conversions
-
+it manages any combination of the following flags: ’-0' and minimum field width with all conversions
 
 main.c is not part of project
 
